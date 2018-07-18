@@ -10,6 +10,7 @@ about: Paper memo template
   * Hyperlink: 
   * Remark:
   
+## 一言でいうと
 ## 概要
 ## 先行研究と比べてここがすごい
 ## 手法のキモ
